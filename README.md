@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
-Hi, I'm Prakash Singh Basnal 👋<br>🏫 I have an MCA degree and love programming.<br>👨‍💻 I enjoy learning about new technologies and improving my skills. <br>I have worked with Angular, TypeScript, React.js, and Node.js.<br>I’m always curious about the tech world and like finding new ways to solve problems. <br>Whether it’s front-end or back-end development, <br>I’m excited to learn more and take on new challenges.
+Hi, I'm Prakash Singh Basnal 👋<br> I have an MCA degree and love programming.<br> I enjoy learning about new technologies and improving my skills. <br>I have worked with Angular, TypeScript, React.js, and Node.js.<br>I’m always curious about the tech world and like finding new ways to solve problems. <br>Whether it’s front-end or back-end development, <br>I’m excited to learn more and take on new challenges.
 
 
 ## 🌐 Socials:
