@@ -10,8 +10,6 @@ Welcome to my GitHub! I'm a passionate developer with an MCA degree who loves pr
 - 💡 **Tech Enthusiast**: I stay engaged with the latest trends in the tech world and love exploring innovative ways to solve problems.
 
 Let’s connect and make the tech world a better place together!
-roblems. <br>Whether it’s front-end or back-end development, <br>I’m excited to learn more and take on new challenges.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakash_singh_basnal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-singh-basnal-630a2b217) 
